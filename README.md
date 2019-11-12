@@ -1,3 +1,3 @@
 # NABIL-OCN-IPB
 
-## This repository is dedicated for increasing capability on understanding physical processes around Indonesian Seas
+## This repository is dedicated for increasing student capability on understanding physical processes of Indonesian Seas through robust analysis and numerical model.
